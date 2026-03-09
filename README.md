@@ -142,6 +142,15 @@ The calculator checks for the following before running calculations:
 - Add support for stock mode with 252 trading days
 - Improve app layout and styling
 
+## App Screenshots
+
+### Home Screen
+![Home Screen](images/streamlit-home.png)
+
+### Results Screen
+![Results Screen](images/streamlit-logresults.png)
+
+
 ## Author
 
 Kaique Torres
